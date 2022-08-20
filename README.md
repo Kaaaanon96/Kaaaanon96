@@ -1,6 +1,6 @@
 ### Hi 👋
 
-blog: https://kanon159.github.io/blog/
+blog: https://kaaaanon96.github.io/blog/
 
 <!--
 **Kanon159/Kanon159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
